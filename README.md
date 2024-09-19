@@ -14,4 +14,8 @@ NOTE: The Machine Learning component can be a bit high level as it would be incr
 
 ## Contributions
 
+Keeping in mind to have these PDFs serve only as refreshers, some of these might only contain high level components.
+
+I'd be happy to address any queries or requests for additions to make these more holistic to address a wider audience.
+
 Feel free to reach out if you would have suggestions / like to make contributions!
